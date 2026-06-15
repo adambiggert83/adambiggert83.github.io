@@ -89,6 +89,44 @@ The application loads course information from a CSV file, displays course inform
 ➡️ [View Enhancement Details](databases.md)
 
 
+## Final Integrated Project
+
+The final version of the Course Advising System combines all three capstone enhancements into a single application.
+
+### Features
+
+- Modular Object-Oriented Architecture
+- Graph-Based Prerequisite Analysis
+- Depth-First Search (DFS)
+- Circular Dependency Detection
+- SQLite Integration
+- Persistent Data Storage
+- Prepared SQL Statements
+- Enhanced Validation and Error Handling
+
+### Artifact
+
+* [Final Integrated Course Advising System](Final-Integrated-Course-Advising-System.zip)
+
+
+## Program Outcomes Demonstrated
+
+### Outcome 1
+Design and evaluate computing solutions that support organizational goals and decision making.
+
+### Outcome 2
+Develop professional oral, written, and visual communications.
+
+### Outcome 3
+Apply algorithmic principles and data structures to solve problems.
+
+### Outcome 4
+Use software engineering techniques, skills, and tools to deliver computing solutions.
+
+### Outcome 5
+Develop a security mindset through secure coding, validation, and database security practices.
+
+
 ## Technical Skills
 
 * C++
