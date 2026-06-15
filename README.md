@@ -108,6 +108,8 @@ The final version of the Course Advising System combines all three capstone enha
 
 * [Final Integrated Course Advising System](Final-Integrated-Course-Advising-System.zip)
 
+➡️ [Final Integrate Course Advising System Details](final-project.md)
+
 
 ## Program Outcomes Demonstrated
 
