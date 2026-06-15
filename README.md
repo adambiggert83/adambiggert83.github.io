@@ -49,8 +49,8 @@ The application loads course information from a CSV file, displays course inform
 
 ### Artifacts
 
-* [Enhanced Artifact](Enhancement1-Software-Engineering.zip)
-* [Enhancement Narrative](Enhancement1Narrative.docx)
+* [Enhancement One Artifact](Enhancement1-Software-Engineering.zip)
+* [Enhancement One Narrative](Enhancement1Narrative.docx)
 
 ➡️ [View Enhancement Details](software-engineering.md)
 
@@ -66,8 +66,8 @@ The application loads course information from a CSV file, displays course inform
 
 ### Artifacts
 
-* [Enhanced Artifact](Enhancement2-Algorithms-DataStructures.zip)
-* [Enhancement Narrative](Enhancement2Narrative.docx)
+* [Enhancement Two Artifact](Enhancement2-Algorithms-DataStructures.zip)
+* [Enhancement Two Narrative](Enhancement2Narrative.docx)
 
 ➡️ [View Enhancement Details](algorithms-data-structures.md)
 
@@ -83,8 +83,8 @@ The application loads course information from a CSV file, displays course inform
 
 ### Artifacts
 
-* [Enhanced Artifact](Enhancement3-Databases.zip)
-* [Enhancement Narrative](Enhancement3Narrative.docx)
+* [Enhancement Three Artifact](Enhancement3-Databases.zip)
+* [Enhancement Three Narrative](Enhancement3Narrative.docx)
 
 ➡️ [View Enhancement Details](databases.md)
 
