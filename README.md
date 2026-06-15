@@ -35,6 +35,8 @@ The code review provides an analysis of the original artifact, identifies areas 
 **Course Advising System**
 Originally developed in CS300: Data Structures and Algorithms.
 
+* [Original Artifact](Original-CS300-Course-Advising-System.zip)
+
 The application loads course information from a CSV file, displays course information, and manages prerequisite relationships.
 
 ---
@@ -51,9 +53,8 @@ The application loads course information from a CSV file, displays course inform
 
 ### Artifacts
 
-* [Original Artifact](artifacts/OriginalArtifact.zip)
-* [Enhanced Artifact](artifacts/Enhancement1.zip)
-* [Enhancement Narrative](narratives/Enhancement1Narrative.docx)
+* [Enhanced Artifact](Enhancement1-Software-Engineering.zip)
+* [Enhancement Narrative](Enhancement1Narrative.docx)
 
 ➡️ [View Enhancement Details](software-engineering.md)
 
@@ -70,8 +71,8 @@ The application loads course information from a CSV file, displays course inform
 
 ### Artifacts
 
-* [Enhanced Artifact](artifacts/Enhancement2.zip)
-* [Enhancement Narrative](narratives/Enhancement2Narrative.docx)
+* [Enhanced Artifact](Enhancement2-Algorithms-DataStructures.zip)
+* [Enhancement Narrative](Enhancement2Narrative.docx)
 
 ➡️ [View Enhancement Details](algorithms-data-structures.md)
 
@@ -88,8 +89,8 @@ The application loads course information from a CSV file, displays course inform
 
 ### Artifacts
 
-* [Enhanced Artifact](artifacts/Enhancement3.zip)
-* [Enhancement Narrative](narratives/Enhancement3Narrative.docx)
+* [Enhanced Artifact](Enhancement3-Databases.zip)
+* [Enhancement Narrative](Enhancement3Narrative.docx)
 
 ➡️ [View Enhancement Details](databases.md)
 
