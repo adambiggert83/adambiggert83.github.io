@@ -1,6 +1,5 @@
 # Professional Self-Assessment
 
----
 
 ## Introduction
 
@@ -8,7 +7,6 @@ Completing the Bachelor of Science in Computer Science program and developing th
 
 This ePortfolio represents not only the knowledge I gained through coursework but also my ability to apply that knowledge to real-world challenges. As someone currently working as a Project Manager in a public-sector IT department and pursuing a career as an Information Security Analyst, I have found that the Computer Science program has helped me build a stronger technical foundation and better understand the technologies that support modern organizations.
 
----
 
 ## Collaboration and Communication
 
@@ -32,7 +30,6 @@ My professional experience as an IT Project Manager has further strengthened the
 
 The ability to bridge the gap between technical and non-technical stakeholders is an essential skill that I will continue to utilize throughout my career.
 
----
 
 ## Software Engineering
 
@@ -47,7 +44,6 @@ The **Software Design and Engineering Enhancement** in this portfolio demonstrat
 
 By separating functionality into multiple classes, improving validation, and enhancing maintainability, I gained practical experience applying professional software development practices. This enhancement illustrates my ability to evaluate an existing solution and improve its quality through thoughtful design decisions.
 
----
 
 ## Data Structures and Algorithms
 
@@ -74,7 +70,6 @@ I developed a more sophisticated solution that can analyze course dependencies a
 
 This enhancement demonstrates my ability to evaluate algorithmic trade-offs and implement data structures that solve increasingly complex problems.
 
----
 
 ## Databases
 
@@ -97,7 +92,6 @@ This experience reinforced the importance of:
 * Scalability
 * Efficient information management
 
----
 
 ## Security and Career Goals
 
@@ -122,7 +116,6 @@ The enhancements included in this portfolio demonstrate security-focused practic
 
 These concepts are directly applicable to my goal of becoming an **Information Security Analyst**, where protecting systems, managing risk, and securing organizational data are primary responsibilities.
 
----
 
 ## How the Artifacts Work Together
 
@@ -156,7 +149,6 @@ Demonstrates:
 
 Together, these enhancements illustrate my ability to evaluate existing systems, identify opportunities for improvement, and implement meaningful solutions using industry-relevant technologies and techniques.
 
----
 
 ## Conclusion
 
@@ -172,7 +164,6 @@ This ePortfolio represents the culmination of that journey and demonstrates my r
 
 As I continue to pursue opportunities in information security and technology leadership, the knowledge, skills, and experience gained throughout this program will serve as a strong foundation for continued professional growth and success.
 
----
 
 ### Career Objective
 
