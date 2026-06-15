@@ -116,17 +116,27 @@ The final version of the Course Advising System combines all three capstone enha
 ### Outcome 1
 Design and evaluate computing solutions that support organizational goals and decision making.
 
+Throughout the Computer Science program, I developed communication and collaboration skills through coursework, presentations, and team-based projects. As a Project Manager in a public-sector IT department, I regularly communicate with technical teams, leadership, vendors, and end users to support organizational decision making. The Course Advising System artifact demonstrates this outcome by organizing course information in a way that supports informed academic planning and decision making. Additionally, the code review, enhancement narratives, and ePortfolio provide evidence of my ability to communicate technical concepts to both technical and non-technical audiences.
+
 ### Outcome 2
 Develop professional oral, written, and visual communications.
+
+This outcome is demonstrated through the creation of the code review video, enhancement narratives, professional self-assessment, and ePortfolio. The code review required me to explain the functionality of the original artifact, identify opportunities for improvement, and communicate enhancement plans in a clear and professional manner. The narratives and portfolio pages further demonstrate my ability to create written technical documentation tailored to instructors, peers, and potential employers.
 
 ### Outcome 3
 Apply algorithmic principles and data structures to solve problems.
 
+The Algorithms and Data Structures enhancement provides the strongest evidence for this outcome. I expanded the Course Advising System by modeling prerequisite relationships as a graph and implementing Depth-First Search (DFS) traversal to analyze course dependencies. I also implemented circular dependency detection to identify invalid prerequisite relationships. This enhancement required evaluating design trade-offs and selecting appropriate data structures and algorithms to improve functionality and efficiency.
+
 ### Outcome 4
 Use software engineering techniques, skills, and tools to deliver computing solutions.
 
+This outcome is demonstrated across all three enhancements. The Software Design and Engineering enhancement improved maintainability through object-oriented design and modular architecture. The Algorithms enhancement introduced graph analysis and recursive traversal techniques. The Database enhancement integrated SQLite, relational database design, and persistent storage. Together, these improvements transformed the original artifact into a more scalable, maintainable, and feature-rich solution that delivers greater value to users.
+
 ### Outcome 5
 Develop a security mindset through secure coding, validation, and database security practices.
+
+As an aspiring Information Security Analyst, this outcome is particularly important to my career goals. Throughout the enhancements, I incorporated defensive programming techniques, validation checks, improved error handling, and secure database practices. The Database enhancement introduced prepared SQL statements and parameter binding to reduce risks associated with malformed input and improve data integrity. These improvements demonstrate my ability to consider security throughout the software development process and apply secure coding principles to software design.
 
 
 ## Technical Skills
