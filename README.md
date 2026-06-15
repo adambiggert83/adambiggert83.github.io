@@ -20,6 +20,10 @@ My professional self-assessment provides an overview of my academic journey, tec
 
 The code review provides an analysis of the original artifact, identifies areas for improvement, and outlines the enhancement strategy used throughout the capstone project.
 
+🎥 **Watch the Code Review Video:**
+
+[CS 499 Capstone Code Review](https://youtu.be/BfGHS7dqpaw)
+
 ➡️ [Code Review](code-review.md)
 
 ---
