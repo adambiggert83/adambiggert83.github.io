@@ -6,7 +6,6 @@
 
 [View Code Review Video on YouTube](https://youtu.be/BfGHS7dqpaw)
 
----
 
 ## Overview
 
@@ -18,7 +17,6 @@ The purpose of this code review was to evaluate the original artifact selected f
 
 This review served as the foundation for the enhancement plan implemented throughout the capstone experience and demonstrates my ability to evaluate existing software, identify areas for improvement, and apply professional software development practices.
 
----
 
 ## Original Artifact
 
@@ -39,7 +37,6 @@ The original artifact was a Course Advising System developed in C++. The applica
 
 While the original project successfully met the requirements of the CS300 course, the code review identified several opportunities to improve maintainability, scalability, functionality, and data management.
 
----
 
 ## Software Design and Engineering Analysis
 
@@ -76,7 +73,6 @@ Key improvements included:
 * Enhanced maintainability and scalability
 * Separation of business logic from user interface functionality
 
----
 
 ## Algorithms and Data Structures Analysis
 
@@ -113,7 +109,6 @@ New capabilities include:
 
 These enhancements demonstrate the application of advanced data structures and algorithmic problem solving.
 
----
 
 ## Database Analysis
 
@@ -152,7 +147,6 @@ Major improvements included:
 
 This enhancement transformed the application from a file-based system into a database-driven solution.
 
----
 
 ## Course Outcomes Demonstrated
 
@@ -203,7 +197,6 @@ Apply security-minded practices throughout the development process.
 * Prepared SQL statements
 * Secure data management
 
----
 
 ## Summary
 
