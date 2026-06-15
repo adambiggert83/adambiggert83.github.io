@@ -24,7 +24,7 @@ The code review provides an analysis of the original artifact, identifies areas 
 
 [CS 499 Capstone Code Review Video](https://youtu.be/BfGHS7dqpaw)
 
-➡️ [Code Review](code-review.md)
+➡️ [Code Review Explanation](code-review.md)
 
 ---
 
