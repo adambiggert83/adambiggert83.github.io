@@ -6,7 +6,6 @@
 
 Welcome to my Computer Science Capstone ePortfolio. This portfolio showcases my growth throughout the Bachelor of Science in Computer Science program through software engineering, algorithms and data structures, database management, and secure software development.
 
----
 
 ## Professional Self-Assessment
 
@@ -14,7 +13,6 @@ My professional self-assessment provides an overview of my academic journey, tec
 
 ➡️ [Professional Self-Assessment](self-assessment.md)
 
----
 
 ## Code Review
 
@@ -26,7 +24,6 @@ The code review provides an analysis of the original artifact, identifies areas 
 
 ➡️ [Code Review Explanation](code-review.md)
 
----
 
 ## Artifact Overview
 
@@ -39,7 +36,6 @@ Originally developed in CS300: Data Structures and Algorithms.
 
 The application loads course information from a CSV file, displays course information, and manages prerequisite relationships.
 
----
 
 ## Enhancement One: Software Design and Engineering
 
@@ -58,7 +54,6 @@ The application loads course information from a CSV file, displays course inform
 
 ➡️ [View Enhancement Details](software-engineering.md)
 
----
 
 ## Enhancement Two: Algorithms and Data Structures
 
@@ -76,7 +71,6 @@ The application loads course information from a CSV file, displays course inform
 
 ➡️ [View Enhancement Details](algorithms-data-structures.md)
 
----
 
 ## Enhancement Three: Databases
 
@@ -94,7 +88,6 @@ The application loads course information from a CSV file, displays course inform
 
 ➡️ [View Enhancement Details](databases.md)
 
----
 
 ## Technical Skills
 
@@ -107,7 +100,6 @@ The application loads course information from a CSV file, displays course inform
 * Object-Oriented Design
 * Database Management
 
----
 
 ## Career Goal
 
