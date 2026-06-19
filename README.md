@@ -7,9 +7,9 @@
 <h3>Information Security Analyst Candidate</h3>
 
 <p>
-<a href="self-assessment.html">Professional Self-Assessment</a> •
-<a href="code-review.html">Code Review</a> •
-<a href="final-project.html">Final Project</a>
+<a href="self-assessment.md">Professional Self-Assessment</a> •
+<a href="code-review.md">Code Review</a> •
+<a href="final-project.md">Final Project</a>
 </p>
 
 </div>
