@@ -88,6 +88,7 @@ Modern applications rely heavily on databases for data storage and management.
 
 This enhancement demonstrates practical experience with database technologies, relational design, and secure data handling practices that are widely used throughout the software and cybersecurity industries.
 
+---
 
 ### Downloads
 
