@@ -5,9 +5,9 @@
 <p>
 <a href="self-assessment.html">Professional Self-Assessment</a> •
 <a href="code-review.html">Code Review</a> •
-<a href="Enhancement1Narrative.html">Enhancement One</a> •
-<a href="Enhancement2Narrative.html">Enhancement Two</a> •
-<a href="Enhancement3Narrative.html">Enhancement Three</a>
+<a href="software-engineering.html">Enhancement One</a> •
+<a href="algorithms-data-structures.html">Enhancement Two</a> •
+<a href="databases.html">Enhancement Three</a>
 </p>
 
 </div>
@@ -60,7 +60,7 @@ The application loads course information from a CSV file, displays course inform
 ### Artifacts
 
 * [Enhancement One Artifact](Enhancement1-Software-Engineering.zip)
-* [Enhancement One Narrative](Enhancement1Narrative.md)
+* [Enhancement One Narrative](Enhancement1Narrative.docx)
 
 ➡️ [View Enhancement Details](software-engineering.md)
 
