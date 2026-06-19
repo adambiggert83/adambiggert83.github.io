@@ -83,7 +83,6 @@ This enhancement demonstrates the practical application of advanced data structu
 
 ---
 
-### Downloads
 
 | Resource | Link |
 |---|---|
