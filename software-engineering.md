@@ -77,7 +77,6 @@ This enhancement demonstrates my ability to evaluate an existing solution and im
 
 ---
 
-### Downloads
 
 | Resource | Link |
 |---|---|
