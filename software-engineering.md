@@ -75,8 +75,10 @@ Software engineering is about more than making code function correctly. It also 
 This enhancement demonstrates my ability to evaluate an existing solution and improve its quality through professional software development practices.
 
 
-## Downloads
+### Downloads
 
-* [Original Artifact](Original-CS300-Course-Advising-System.zip)
-* [Enhancement One Artifact](Enhancement1-Software-Engineering.zip)
-* [Enhancement One Narrative](Enhancement1Narrative.docx)
+| Resource | Link |
+|---|---|
+| Original Artifact | [Download](Original-CS300-Course-Advising-System.zip) |
+| Enhancement One Artifact | [Download](Enhancement1-Software-Engineering.zip) |
+| Enhancement One Narrative | [Download](Enhancement1Narrative.docx) |
