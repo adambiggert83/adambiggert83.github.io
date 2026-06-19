@@ -5,7 +5,9 @@
 <p>
 <a href="self-assessment.md">Professional Self-Assessment</a> •
 <a href="code-review.md">Code Review</a> •
-<a href="final-project.md">Final Project</a>
+<a href="Enhancement1Narrative.md">Enhancement One</a> •
+<a href="Enhancement2Narrative.md">Enhancement Two</a> •
+<a href="Enhancement3Narrative.md">Enhancement Three</a>
 </p>
 
 </div>
