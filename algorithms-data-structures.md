@@ -81,8 +81,10 @@ Graph structures are commonly used to model relationships, dependencies, and net
 This enhancement demonstrates the practical application of advanced data structures and algorithms to solve real-world problems and improve system functionality.
 
 
-## Downloads
+### Downloads
 
-* [Original Artifact](Original-CS300-Course-Advising-System.zip)
-* [Enhanced Artifact](Enhancement2-Algorithms-DataStructures.zip)
-* [Enhancement Narrative](Enhancement2Narrative.docx)
+| Resource | Link |
+|---|---|
+| Original Artifact | [Download](Original-CS300-Course-Advising-System.zip) |
+| Enhancement Two Artifact | [Download](Enhancement2-Algorithms-DataStructures.zip) |
+| Enhancement Two Narrative | [Download](Enhancement2Narrative.docx) |
