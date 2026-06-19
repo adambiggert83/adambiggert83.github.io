@@ -75,6 +75,8 @@ Software engineering is about more than making code function correctly. It also 
 This enhancement demonstrates my ability to evaluate an existing solution and improve its quality through professional software development practices.
 
 
+---
+
 ### Downloads
 
 | Resource | Link |
