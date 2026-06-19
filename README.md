@@ -3,8 +3,8 @@
 <h3>Information Security Analyst Candidate</h3>
 
 <p>
-<a href="self-assessment.md">Professional Self-Assessment</a> •
-<a href="code-review.md">Code Review</a> •
+<a href="self-assessment.html">Professional Self-Assessment</a> •
+<a href="code-review.html">Code Review</a> •
 <a href="Enhancement1Narrative.docx">Enhancement One</a> •
 <a href="Enhancement2Narrative.docx">Enhancement Two</a> •
 <a href="Enhancement3Narrative.docx">Enhancement Three</a>
