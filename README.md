@@ -1,16 +1,3 @@
-<div align="center">
-
-# Adam Biggert
-
-## Computer Science ePortfolio
-
-### Information Security Analyst Candidate
-
-[Professional Self-Assessment](self-assessment.md) •
-[Code Review](code-review.md) •
-[Final Project](final-project.md)
-
-</div>
 
 Welcome to my Computer Science Capstone ePortfolio. This portfolio showcases my growth throughout the Bachelor of Science in Computer Science program through software engineering, algorithms and data structures, database management, and secure software development.
 
