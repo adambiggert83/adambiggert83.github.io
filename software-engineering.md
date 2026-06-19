@@ -75,11 +75,6 @@ Software engineering is about more than making code function correctly. It also 
 This enhancement demonstrates my ability to evaluate an existing solution and improve its quality through professional software development practices.
 
 
-## Screenshots
-
-*Insert screenshots of the file structure, application output, and class organization here.*
-
-
 ## Downloads
 
 * [Original Artifact](Original-CS300-Course-Advising-System.zip)
