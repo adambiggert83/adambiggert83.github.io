@@ -21,7 +21,6 @@ The original application demonstrated foundational computer science concepts inc
 
 This artifact was originally created as part of a project focused on evaluating efficient data structures for course management.
 
----
 
 ## Justification for Inclusion in the ePortfolio
 
@@ -52,7 +51,6 @@ Although the application met the original project requirements, several software
 
 The enhancement process focused on improving the overall software architecture through modular design and object-oriented programming principles.
 
----
 
 ## Description of Enhancements
 
@@ -120,7 +118,6 @@ A new advising summary feature was implemented to present prerequisite informati
 
 This enhancement improves academic decision support and advising functionality.
 
----
 
 ## Skills Demonstrated
 
@@ -137,7 +134,6 @@ This enhancement demonstrates proficiency in:
 * Error Handling
 * Maintainable Software Design
 
----
 
 ## Course Outcomes Achieved
 
@@ -177,7 +173,6 @@ This outcome was strongly demonstrated through:
 
 Improved validation and defensive programming techniques help reduce potential input-related errors and improve system reliability.
 
----
 
 ## Reflection on the Enhancement Process
 
@@ -193,10 +188,19 @@ Another challenge involved strengthening validation and error handling while pre
 
 Overall, this enhancement demonstrates meaningful growth in my understanding of professional software engineering practices and results in a significantly more maintainable, scalable, and professionally designed software solution.
 
----
 
 ## Downloads
 
-* Original Artifact
-* Enhanced Artifact
-* Enhancement Narrative
+### Artifact Files
+
+📂 **Original Artifact**
+
+[Download Original CS300 Course Advising System](Original-CS300-Course-Advising-System.zip)
+
+📦 **Enhanced Artifact**
+
+[Download Software Design and Engineering Enhancement](Enhancement1-Software-Engineering.zip)
+
+📄 **Enhancement Narrative**
+
+[Download Enhancement One Narrative](Enhancement1Narrative.docx)
