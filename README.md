@@ -1,9 +1,5 @@
 <div align="center">
 
-<h1>Adam Biggert</h1>
-
-<h2>Computer Science ePortfolio</h2>
-
 <h3>Information Security Analyst Candidate</h3>
 
 <p>
