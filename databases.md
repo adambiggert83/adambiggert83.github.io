@@ -89,8 +89,10 @@ Modern applications rely heavily on databases for data storage and management.
 This enhancement demonstrates practical experience with database technologies, relational design, and secure data handling practices that are widely used throughout the software and cybersecurity industries.
 
 
-## Downloads
+### Downloads
 
-* [Original Artifact](Original-CS300-Course-Advising-System.zip)
-* [Enhanced Artifact](Enhancement3-Databases.zip)
-* [Enhancement Narrative](Enhancement3Narrative.docx)
+| Resource | Link |
+|---|---|
+| Original Artifact | [Download](Original-CS300-Course-Advising-System.zip) |
+| Enhancement Three Artifact | [Download](Enhancement3-Databases.zip) |
+| Enhancement Three Narrative | [Download](Enhancement3Narrative.docx) |
