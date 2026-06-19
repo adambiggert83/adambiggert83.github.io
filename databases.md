@@ -89,11 +89,6 @@ Modern applications rely heavily on databases for data storage and management.
 This enhancement demonstrates practical experience with database technologies, relational design, and secure data handling practices that are widely used throughout the software and cybersecurity industries.
 
 
-## Screenshots
-
-*Insert screenshots showing SQLite tables, query results, and application output here.*
-
-
 ## Downloads
 
 * [Original Artifact](Original-CS300-Course-Advising-System.zip)
