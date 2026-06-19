@@ -81,11 +81,6 @@ Graph structures are commonly used to model relationships, dependencies, and net
 This enhancement demonstrates the practical application of advanced data structures and algorithms to solve real-world problems and improve system functionality.
 
 
-## Screenshots
-
-*Insert screenshots showing DFS traversal output and circular dependency detection here.*
-
-
 ## Downloads
 
 * [Original Artifact](Original-CS300-Course-Advising-System.zip)
