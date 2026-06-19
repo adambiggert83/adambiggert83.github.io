@@ -1,23 +1,202 @@
-**Enhancement One: Software Design and Engineering**
+# Software Design and Engineering Enhancement
 
-Artifact Description
-	The artifact selected for this enhancement is a C++ Course Advising System originally developed in CS300: Data Structures and Algorithms. The application was designed to load course information from a CSV file, organize the data in an unordered map, and allow users to display a sorted list of courses or search for detailed information about individual courses and their prerequisites.
-	The original application demonstrated foundational programming concepts, including file handling, data structures, searching and sorting, and basic defensive programming. The artifact was created as part of a project focused on evaluating and implementing efficient data structures for course management.
-Justification for Inclusion in the ePortfolio
-	I selected this artifact for my ePortfolio because it demonstrates multiple core computer science concepts and offers significant opportunities for enhancement and professional growth. The project showcases my ability to work with structured data, implement efficient search functionality, and develop a functioning command-line application in C++.
-	One of the original artifact's most important strengths is its use of an unordered map to enable efficient course lookup operations. The application also demonstrates modular thinking through helper functions such as Split and ToUpper. Additionally, the application includes basic defensive programming concepts such as file validation and invalid-line handling.
-	Although the original artifact met the project requirements, the application also had several limitations in software engineering and design. The original implementation stored all functionality in a single source file and relied on a global unordered map to manage course data. User interaction, file processing, business logic, and data management were tightly coupled together, limiting scalability and maintainability.
-	The enhancement process focused on improving the application's software engineering quality by restructuring the code into a more modular, maintainable, object-oriented architecture. The enhanced version separates functionality into multiple classes and files to improve organization, readability, maintainability, and scalability.
-Description of Enhancements
-	Several significant software engineering improvements were implemented during this enhancement. First, the application was restructured into multiple source and header files. Instead of storing all functionality in a single file, the enhanced application separates it into dedicated components: Course, CourseManager, FileLoader, MenuSystem, and StringUtils.
-	The CourseManager class now manages all course-related operations and encapsulates the unordered map rather than relying on a global variable. This improves encapsulation and reduces unnecessary dependencies between application components. The FileLoader component isolates file-processing logic from the rest of the application, improving maintainability and simplifying future expansion. The MenuSystem component improves the organization of the user interface and menu navigation.
-	Additional enhancements included improved defensive programming practices and validation logic. Input validation was strengthened better to handle invalid menu selections and malformed course data. Error messages were also improved to provide clearer feedback to users. The enhanced application now validates prerequisite references after loading data and warns the user when a prerequisite listed in the CSV file does not exist in the current catalog.
-	The enhanced application also includes improved comments and documentation to support long-term maintainability. Finally, the application was improved to better support advising functionality by adding an advising summary feature that presents prerequisite information in a clearer, decision-support format.
-Course Outcomes Achieved
-	This enhancement directly supports several CS 499 course outcomes. Outcome 1 was supported by improvements that help organize and present course information in ways that support advising and academic decision-making. The advising summary feature is designed to help students, advisors, and other academic stakeholders review prerequisites more clearly.
-	Outcome 2 was supported through clearer documentation, improved communication of system functionality, and improved organization of the application. Outcome 3 was partially supported by the continued use of efficient data structures and the evaluation of design trade-offs during the restructuring process.
-	Outcome 4 was strongly supported by implementing professional software engineering practices, including modular design, encapsulation, defensive programming, and improved maintainability. Outcome 5 was partially supported through improved validation and defensive programming practices. Additional security-focused improvements are planned during later database enhancements.
-Reflection on the Enhancement Process
-	The enhancement process helped reinforce the importance of software engineering principles such as modularity, separation of concerns, maintainability, and defensive programming. One of the most important lessons I learned was that code functionality alone is not sufficient for long-term software quality. While the original application worked correctly, the tightly coupled structure and limited organization would make future modifications more difficult.
-	Refactoring the application into multiple components significantly improved readability and scalability. One challenge during the enhancement process involved reorganizing the code without breaking the original functionality. Separating responsibilities into different classes required careful planning to maintain consistent data flow between components.
-	Another challenge involved improving input validation and error handling while preserving the simplicity of the original user interface. Overall, this enhancement demonstrated meaningful growth in my understanding of software engineering principles and professional development practices. The enhanced artifact now represents a more maintainable, scalable, and professionally structured software solution than the original implementation.
+## Artifact Description
+
+The artifact selected for this enhancement is a **C++ Course Advising System** originally developed in **CS300: Data Structures and Algorithms**.
+
+The application was designed to:
+
+* Load course information from a CSV file
+* Organize course data using an unordered map
+* Display a sorted list of courses
+* Search for detailed course information
+* Display prerequisite relationships
+
+The original application demonstrated foundational computer science concepts including:
+
+* File handling
+* Data structures
+* Searching and sorting algorithms
+* Basic defensive programming
+
+This artifact was originally created as part of a project focused on evaluating efficient data structures for course management.
+
+---
+
+## Justification for Inclusion in the ePortfolio
+
+I selected this artifact because it demonstrates multiple core computer science concepts and provides significant opportunities for enhancement and professional growth.
+
+The original project showcases my ability to:
+
+* Work with structured data
+* Implement efficient search functionality
+* Develop a command-line application in C++
+* Apply data structures to solve real-world problems
+
+### Strengths of the Original Artifact
+
+* Efficient course lookup using an unordered map
+* Modular helper functions such as `Split()` and `ToUpper()`
+* Basic defensive programming practices
+* File validation and invalid-line handling
+
+### Limitations of the Original Artifact
+
+Although the application met the original project requirements, several software engineering limitations were identified:
+
+* All functionality existed in a single source file
+* A global unordered map was used for data management
+* User interface, file processing, and business logic were tightly coupled
+* Limited scalability and maintainability
+
+The enhancement process focused on improving the overall software architecture through modular design and object-oriented programming principles.
+
+---
+
+## Description of Enhancements
+
+Several significant software engineering improvements were implemented during this enhancement.
+
+### Modular Architecture
+
+The application was restructured into multiple source and header files.
+
+The enhanced system now includes dedicated components:
+
+* Course
+* CourseManager
+* FileLoader
+* MenuSystem
+* StringUtils
+
+This separation of responsibilities improves organization, maintainability, and future scalability.
+
+### Improved Encapsulation
+
+The `CourseManager` class now manages all course-related operations and encapsulates the unordered map previously stored as a global variable.
+
+Benefits include:
+
+* Improved encapsulation
+* Reduced dependencies
+* Better maintainability
+* Cleaner code structure
+
+### File Processing Separation
+
+The `FileLoader` component isolates CSV processing and file validation from the rest of the application.
+
+This change improves:
+
+* Maintainability
+* Reusability
+* Testability
+
+### User Interface Improvements
+
+The `MenuSystem` component centralizes menu navigation and user interaction.
+
+This enhancement improves:
+
+* User experience
+* Code organization
+* Separation of concerns
+
+### Defensive Programming Enhancements
+
+Additional validation and error-handling improvements were implemented, including:
+
+* Invalid menu selection handling
+* Malformed course data validation
+* Improved error messaging
+* Missing prerequisite detection
+
+The enhanced application validates prerequisite references after loading data and warns users when prerequisite courses do not exist in the catalog.
+
+### Advising Summary Feature
+
+A new advising summary feature was implemented to present prerequisite information in a clearer and more user-friendly format.
+
+This enhancement improves academic decision support and advising functionality.
+
+---
+
+## Skills Demonstrated
+
+This enhancement demonstrates proficiency in:
+
+* C++
+* Object-Oriented Programming
+* Software Architecture
+* Encapsulation
+* Modular Design
+* Separation of Concerns
+* Defensive Programming
+* Input Validation
+* Error Handling
+* Maintainable Software Design
+
+---
+
+## Course Outcomes Achieved
+
+### Outcome 1
+
+**Design and evaluate computing solutions that support organizational goals and decision making.**
+
+The advising summary feature improves the presentation of prerequisite information and supports academic planning and decision-making processes.
+
+### Outcome 2
+
+**Develop professional communications appropriate to technical and non-technical audiences.**
+
+This enhancement improved documentation, system organization, and communication of application functionality through clearer structure and design.
+
+### Outcome 3
+
+**Apply algorithmic principles and computer science practices.**
+
+The application continues to utilize efficient data structures while evaluating design trade-offs during the refactoring process.
+
+### Outcome 4
+
+**Apply software engineering practices and technologies to create computing solutions.**
+
+This outcome was strongly demonstrated through:
+
+* Modular architecture
+* Encapsulation
+* Object-oriented design
+* Defensive programming
+* Improved maintainability
+
+### Outcome 5
+
+**Develop a security mindset through validation and secure design practices.**
+
+Improved validation and defensive programming techniques help reduce potential input-related errors and improve system reliability.
+
+---
+
+## Reflection on the Enhancement Process
+
+This enhancement reinforced the importance of software engineering principles such as modularity, maintainability, separation of concerns, and defensive programming.
+
+One of the most significant lessons learned was that functionality alone does not guarantee software quality. While the original application worked correctly, its tightly coupled design would have made future maintenance and expansion difficult.
+
+Refactoring the application into multiple components significantly improved readability, maintainability, and scalability.
+
+One challenge involved reorganizing the code without disrupting existing functionality. Separating responsibilities into distinct classes required careful planning to ensure consistent communication between components.
+
+Another challenge involved strengthening validation and error handling while preserving the simplicity of the original user interface.
+
+Overall, this enhancement demonstrates meaningful growth in my understanding of professional software engineering practices and results in a significantly more maintainable, scalable, and professionally designed software solution.
+
+---
+
+## Downloads
+
+* Original Artifact
+* Enhanced Artifact
+* Enhancement Narrative
