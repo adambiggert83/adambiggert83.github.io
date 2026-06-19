@@ -40,7 +40,7 @@ The program also strengthened my understanding of software engineering principle
 * Scalability
 * Defensive programming
 
-The **Software Design and Engineering Enhancement** in this portfolio demonstrates these principles by refactoring a course advising system into a more modular, object-oriented architecture.
+The Software Design and Engineering Enhancement in this portfolio demonstrates these principles by refactoring a course advising system into a more modular, object-oriented architecture.
 
 By separating functionality into multiple classes, improving validation, and enhancing maintainability, I gained practical experience applying professional software development practices. This enhancement illustrates my ability to evaluate an existing solution and improve its quality through thoughtful design decisions.
 
@@ -58,7 +58,7 @@ Throughout the program, I gained experience working with:
 * Searching Algorithms
 * Sorting Algorithms
 
-For my **Algorithms and Data Structures Enhancement**, I expanded the course advising system's functionality by implementing graph-based prerequisite analysis.
+For my Algorithms and Data Structures Enhancement, I expanded the course advising system's functionality by implementing graph-based prerequisite analysis.
 
 Using:
 
@@ -75,7 +75,7 @@ This enhancement demonstrates my ability to evaluate algorithmic trade-offs and 
 
 Database design and management also became an important area of study throughout the program. Modern organizations rely heavily on data-driven systems, making effective data management an essential skill for technology professionals.
 
-During my **Database Enhancement**, I integrated SQLite into the course advising system to replace the original file-based storage approach.
+During my Database Enhancement, I integrated SQLite into the course advising system to replace the original file-based storage approach.
 
 This enhancement introduced:
 
@@ -114,7 +114,7 @@ The enhancements included in this portfolio demonstrate security-focused practic
 * Error handling
 * Prepared SQL statements
 
-These concepts are directly applicable to my goal of becoming an **Information Security Analyst**, where protecting systems, managing risk, and securing organizational data are primary responsibilities.
+These concepts are directly applicable to my goal of becoming an Information Security Analyst, where protecting systems, managing risk, and securing organizational data are primary responsibilities.
 
 
 ## How the Artifacts Work Together
