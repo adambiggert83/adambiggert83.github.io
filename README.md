@@ -1,4 +1,3 @@
-
 Welcome to my Computer Science Capstone ePortfolio. This portfolio showcases my growth throughout the Bachelor of Science in Computer Science program through software engineering, algorithms and data structures, database management, and secure software development.
 
 
