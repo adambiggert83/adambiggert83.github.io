@@ -81,6 +81,8 @@ Graph structures are commonly used to model relationships, dependencies, and net
 This enhancement demonstrates the practical application of advanced data structures and algorithms to solve real-world problems and improve system functionality.
 
 
+---
+
 ### Downloads
 
 | Resource | Link |
