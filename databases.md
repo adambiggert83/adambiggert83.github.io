@@ -90,7 +90,6 @@ This enhancement demonstrates practical experience with database technologies, r
 
 ---
 
-### Downloads
 
 | Resource | Link |
 |---|---|
